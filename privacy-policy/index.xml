@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms &amp; Conditions on Neighboorhood supply</title>
-    <link>patrickmi.github.io/privacy-policy/</link>
+    <link>neighborhood-supply.github.io/privacy-policy/</link>
     <description>Recent content in Terms &amp; Conditions on Neighboorhood supply</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Neighborhood Supply. Eine Website im Rahmen einer Veranstaltung an der Universität Kassel</copyright><atom:link href="patrickmi.github.io/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Neighborhood Supply. Eine Website im Rahmen einer Veranstaltung an der Universität Kassel</copyright><atom:link href="neighborhood-supply.github.io/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
